@@ -1,6 +1,6 @@
 ### List of commands
 
-* `**git init**` - Initialize (create) a new local repository. Only do this once per project.
+* ![`git init`] - Initialize (create) a new local repository. Only do this once per project.
 
 * **git add <file/folder>** - Add a file or folder to the staging area. Include the name or path of the file or folder. Do not include the angle brackets (<, >).
 
