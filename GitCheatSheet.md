@@ -1,6 +1,6 @@
 ### List of commands
 
-* **git init** - Initialize (create) a new local repository. Only do this once per project.
+* [!**git init**] - Initialize (create) a new local repository. Only do this once per project.
 
 * **git add <file/folder>** - Add a file or folder to the staging area. Include the name or path of the file or folder. Do not include the angle brackets (<, >).
 
@@ -10,13 +10,13 @@
 
 * **git rm --cached -r .** - Recursively(-r) remove ALL(.) files from staging.
 
-* **git push** - Push (copy) your committed changes to the remote repositroy (i.e. GitHub).
+* **git push** - Push (copy) your committed changes to the remote repository (i.e. GitHub).
 
 * **git pull** - Pull (copy) changes from a remote (i.e. GitHub) repository to your computer.
 
-* **git status** - View the current changes and staging area
+* **git status** - View the current changes and staging area.
 
-* **git diff <file>** - View changes to a file that is unstages.
+* **git diff <file>** - View changes to a file that are unstages.
 
 * **git diff --staged <file>** - View changes to a file that is staged. (What lines were added, removed, and modified?)
 
